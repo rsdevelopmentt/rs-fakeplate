@@ -15,5 +15,5 @@ inventory items & images !! All necessary installation files are included.
 
 #I'm waiting for you too
 
-Discord: <a href>https://discord.gg/WhRgsxp4A6</a href>
+Discord: <a href>https://discord.gg/WhRgsxp4A6<a href>
 
