@@ -2,6 +2,12 @@
 
 - The whole script does not belong to me, it is only six and only modified.
 
+# Installation:
+
+- Drag and drop the folder in your resources
+- Start the resource
+- Enjoy
+
 # Setup
 
 - Copy the images from images folder to [your-inventory]\html\images
