@@ -13,7 +13,7 @@ inventory items & images !! All necessary installation files are included.
 -remove the prompts from a heist or add them to a grocery store
 
 
-#I'm waiting for you too
+# I'm waiting for you too
 
 Discord: <a href>https://discord.gg/WhRgsxp4A6<a href>
 
