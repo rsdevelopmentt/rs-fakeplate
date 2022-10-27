@@ -2,12 +2,12 @@
 
 The whole script does not belong to me, it is only six and only modified.
 
-#Setup
+# Setup
 
 inventory items & images !! All necessary installation files are included.
 
 
-#Explanation
+# Explanation
 
 -An Easily Pluggable System
 -remove the prompts from a heist or add them to a grocery store
