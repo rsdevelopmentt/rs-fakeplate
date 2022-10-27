@@ -7,7 +7,7 @@ credit 'Tgiann'
 
 shared_scripts {
     '@qb-core/shared/locale.lua',
-    'locales/tr.lua',
+    'locales/en.lua',
     'locales/*.lua'
 }
 server_scripts {
