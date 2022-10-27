@@ -10,6 +10,8 @@ inventory items & images !! All necessary installation files are included.
 # Explanation
 
 -An Easily Pluggable System
+
+
 -remove the prompts from a heist or add them to a grocery store
 
 
