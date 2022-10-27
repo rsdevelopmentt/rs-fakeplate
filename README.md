@@ -25,7 +25,7 @@
 - remove the prompts from a heist or add them to a grocery store
 
 
-# I'm waiting for you too
+# (For any help you can reach us at Discord)
 
 - Discord: <a href>https://discord.gg/WhRgsxp4A6<a href>
 
