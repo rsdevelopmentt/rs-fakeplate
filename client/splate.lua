@@ -38,7 +38,6 @@ AddEventHandler('rs-plate:splate-plug', function()
                                 if status then
                                     SetVehicleNumberPlateText(closestVehicle, newPlate)
                                     TriggerServerEvent('qb-vehiclekeys:server:AcquireVehicleKeys', newPlate)
-                                    --TriggerEvent("x-hotwire:give-keys", closestVehicle)
                                     QBCore.Functions.Notify(Lang:t('success.platechanged'), "success")
                                 end
                             end, plateNumber, newPlate)
